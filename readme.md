@@ -2,11 +2,17 @@
 
 ## 📹 Video Tutorial
 
-[**▶️ KLIK DI SINI UNTUK MENONTON VIDEO TUTORIAL**](https://github.com/hafisc/UTS-PBO/raw/main/readme.mp4)
+<div align="center">
+  
+### [▶️ **KLIK UNTUK MENONTON VIDEO TUTORIAL** ▶️](https://github.com/hafisc/UTS-PBO/raw/main/readme.mp4)
 
-[![Video Tutorial](https://img.shields.io/badge/▶️_Video-Tutorial-red?style=for-the-badge&logo=youtube)](https://github.com/hafisc/UTS-PBO/raw/main/readme.mp4)
+[![Download Video](https://img.shields.io/badge/📥_Download-Video_Tutorial-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://github.com/hafisc/UTS-PBO/raw/main/readme.mp4)
+[![Video Size](https://img.shields.io/badge/Size-29MB-blue?style=for-the-badge)](https://github.com/hafisc/UTS-PBO/raw/main/readme.mp4)
+[![Format](https://img.shields.io/badge/Format-MP4-green?style=for-the-badge)](https://github.com/hafisc/UTS-PBO/raw/main/readme.mp4)
 
-> 📥 Video akan didownload/diputar otomatis saat diklik
+**Video ini berisi tutorial lengkap tentang implementasi Plants vs Zombies Game**
+
+</div>
 
 ---
 
@@ -81,38 +87,7 @@ java Tester
 - **JumpingZombie**: -10% health saat destroyed
 - **Barrier**: -9 strength saat destroyed
 
-## 🎮 Contoh Output
 
-### Main.java Output:
-```
-JumpingZombie kalah!
-Barrier kalah!
-WalkingZombie kalah!
-```
-
-### Tester.java Output:
-```
-Walking Zombie Data =
-Health = 100
-Level = 1
-
-Jumping Zombie Data =
-Health = 100
-Level = 2
-
-Barrier Strength = 100
-
---------------------------
-Walking Zombie Data =
-Health = 42
-Level = 1
-
-Jumping Zombie Data =
-Health = 66
-Level = 2
-
-Barrier Strength = 64
-```
 
 ## 👨‍💻 Author
 **Hafis**
@@ -121,7 +96,3 @@ Barrier Strength = 64
 
 ## 📄 License
 Project ini dibuat untuk keperluan UTS Pemrograman Berorientasi Objek.
-
----
-
-⭐ Jangan lupa untuk star repository ini jika bermanfaat!
