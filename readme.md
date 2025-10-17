@@ -2,9 +2,11 @@
 
 ## 📹 Video Tutorial
 
-<video src="https://github.com/hafisc/UTS-PBO/raw/main/readme.mp4" controls width="100%">
-  Your browser does not support the video tag.
-</video>
+[**▶️ KLIK DI SINI UNTUK MENONTON VIDEO TUTORIAL**](https://github.com/hafisc/UTS-PBO/raw/main/readme.mp4)
+
+[![Video Tutorial](https://img.shields.io/badge/▶️_Video-Tutorial-red?style=for-the-badge&logo=youtube)](https://github.com/hafisc/UTS-PBO/raw/main/readme.mp4)
+
+> 📥 Video akan didownload/diputar otomatis saat diklik
 
 ---
 
