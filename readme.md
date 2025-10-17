@@ -8,11 +8,19 @@ javac Main.java
 java Main
 ```
 
+**Output:**
+
+![Main Output](image/main.png)
+
 ### Tester.java
 ```bash
 javac Tester.java
 java Tester
 ```
+
+**Output:**
+
+![Tester Output](image/tester.png)
 
 ## 👨‍💻 Author
 **Hafis**
