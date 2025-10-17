@@ -1,9 +1,10 @@
 # UTS PBO - Plants vs Zombies Game Simulation
 
 ## 📹 Video Tutorial
-Watch the complete tutorial here:
 
-https://github.com/hafisc/UTS-PBO/raw/main/readme.mp4
+<video src="https://github.com/hafisc/UTS-PBO/raw/main/readme.mp4" controls width="100%">
+  Your browser does not support the video tag.
+</video>
 
 ---
 
