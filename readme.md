@@ -1,4 +1,4 @@
-# UTS PBO 
+# UTS PBO - Zombie
 
 ## Cara Menjalankan
 
